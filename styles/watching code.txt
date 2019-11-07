@@ -1,0 +1,1 @@
+sass --watch main-styles.scss:main-style.css home.scss:home-style.css new-question.scss:new-question-style.css contact.scss:contact-style.css login.scss:login-style.css question-end.scss:question-end-style.css search-result.scss:search-result-style.css

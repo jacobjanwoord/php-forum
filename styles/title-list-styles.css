@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    font-family: montserrat;
+}
+
+#list{
+    background-color: grey;
+    padding-bottom: 100px;
+}
+
+#question-list{
+    background: white;
+    width: 80%;
+    height: 100%;
+    padding: 80px 40px;
+    border-radius: 10px;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}

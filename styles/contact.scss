@@ -1,0 +1,63 @@
+#contact-main{
+    width: 100%;
+    background-color: grey;
+
+    #contact-people{
+        width: 85%;
+        position: relative;
+        margin-top: 50px;
+        margin-bottom: 50px;
+        margin-left: auto;
+        margin-right: auto;
+        background-color: white;
+        padding: 50px;
+        border-radius: 10px;
+
+        #contact-sisi{
+            img{
+                width: 150px;
+                height: auto;
+                border-radius: 3px;
+            }
+            h2{
+                padding-top: 10px;
+                font-family: verdana sans-serif;
+                font-weight: bold;
+                font-size: 40px;
+                background: -webkit-linear-gradient(#b92b27, #1565c0);
+                -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+            }
+            p{
+                padding-top: 20px;
+                font-family: verdana sans-serif;
+                font-weight: 300;
+                font-size: 15px;
+            }
+        }
+
+        #contact-jjw{
+            padding-top: 20px;
+            img{
+                width: 150px;
+                height: auto;
+                border-radius: 5px;
+            }
+            h2{
+                padding-top: 10px;
+                font-family: verdana sans-serif;
+                font-weight: bold;
+                font-size: 40px;
+                background: -webkit-linear-gradient(#b92b27, #1565c0);
+                -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+            }
+            p{
+                padding-top: 20px;
+                font-family: verdana sans-serif;
+                font-weight: 300;
+                font-size: 15px;
+            }
+        }
+    }
+}
