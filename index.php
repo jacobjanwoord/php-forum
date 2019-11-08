@@ -33,10 +33,10 @@ $question->Search_question($search_input);
 <div id="page-container">
 
 <header role="banner">
-    <nav class="navbar navbar-expand-md navbar-light bg-light">
-        <div class="container-fluid"> <!-- navbar image and dropdown toggler -->
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <div class="container-fluid" id="navbar"> <!-- navbar image and dropdown toggler -->
             <a class="navbar-brand" href="index.php"><img src="./img/logo.PNG" id="logo"></a>
-            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive">
+            <button class="navbar-toggler" id="toggle" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarToggleExternalContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
         </div> <!-- navbar items -->
