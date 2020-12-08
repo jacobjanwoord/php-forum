@@ -1,2 +1,2 @@
-# MyTest
-this is a git test for my forum
+# php forum
+opdracht van ROC Friese Poort. Forum in php.
